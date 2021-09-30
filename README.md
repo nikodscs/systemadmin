@@ -1,2 +1,2 @@
 # systemadmin
-ima da razvalim azure sa mocnim skriptama
+azure sa mocnim skriptama
